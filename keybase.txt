@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/wkapcio
+--------------------------------------------------------------------
+
+I hereby claim:
+
+* I am an admin of https://kapc.io
+* I am wkapcio (https://keybase.io/wkapcio) on keybase.
+* I have a public key ASCXC7fvwzMtDqCkTjoZpTVdqIMQ2wfDFHOSkiSoCiA-TAo
+
+To do so, I am signing this object:
+
+{
+"body": {
+"key": {
+"eldest_kid": "0120970bb7efc3332d0ea0a44e3a19a5355da88310db07c31473929224a80a203e4c0a",
+"host": "keybase.io",
+"kid": "0120970bb7efc3332d0ea0a44e3a19a5355da88310db07c31473929224a80a203e4c0a",
+"uid": "89427de7dab6fba96cfeba2590a2e619",
+"username": "wkapcio"
+},
+"merkle_root": {
+"ctime": 1548833820,
+"hash": "d10fbb00beca9279b11d257a79745f2660e65a8c1811e6114c802f777c9b17e2efe77e0d7374dc678b47f7edfe6c66180f17c72df1b530f1672c2e3b84b45be0",
+"hash_meta": "bd91bc17642c744c7246e955becdf6a361ac8b3db94ece89aad33883d0d6aa5e",
+"seqno": 4660382
+},
+"service": {
+"entropy": "NHBKdDyz5J4pLhSk+UBYL8/5",
+"hostname": "kapc.io",
+"protocol": "https:"
+},
+"type": "web_service_binding",
+"version": 2
+},
+"client": {
+"name": "keybase.io go client",
+"version": "2.13.2"
+},
+"ctime": 1548833828,
+"expire_in": 504576000,
+"prev": "635511cd6072787347eee23115395c58ea8dc0a7136aaa28b99579479b9a21b0",
+"seqno": 11,
+"tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEglwu378MzLQ6gpE46GaU1XaiDENsHwxRzkpIkqAogPkwKp3BheWxvYWTESpcCC8QgY1URzWByeHNH7uIxFTlcWOqNwKcTaqoouZV5R5uaIbDEIOYLaB5Wqj4yGuHgcOsTmpkaZCOEAzcLMjVaTqRzTDtrAgHCo3NpZ8RAr4jGrYLuRRRBgxGJQR7Q4V0dV7DADiMlYpzkIWW0TZp76Dny4TNXyNSW2r/v3Qp3el8//QstY+OV63iV/POxBKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIA/pm9DwxN/CagAMgCHjJWFIihgz7iR9qa3JHVBU0Y0Wo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/wkapcio
+
+==================================================================
