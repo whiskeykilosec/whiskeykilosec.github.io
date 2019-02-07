@@ -30,3 +30,7 @@ highlighter: rouge
 
 # Permalinks
 permalink: pretty
+
+# Plugins
+plugins:
+  - jekyll-sitemap
