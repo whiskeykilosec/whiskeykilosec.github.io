@@ -83,7 +83,6 @@ since it must be aligned with the content */
 .tagline-container p {
 	font-size: 1.3em;
 	text-align: center;
-	margin-bottom: 2em;
 }
 
 /*** location ***/
@@ -148,7 +147,7 @@ footer {
 	.logo-container,
 	.tagline-container p {
 		text-align: right;
-	},
+	}
 	.location-container p {
 		text-align: right;
 	}
