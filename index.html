@@ -16,6 +16,10 @@ layout: base
         {% if site.compass.tagline %}
         <div class="tagline-container"><p>{{ site.compass.tagline }}</p></div>
         {% endif %}
+
+        {% if site.compass.location %}
+        <div class="tagline-location"><p>{{ site.compass.location }}</p></div>
+        {% endif %}
     </header>
     <main>
       {% if site.compass.include_content %}
