@@ -19,7 +19,7 @@ compass:
   # Tracking Code to that file.
   include_analytics: true
   # Twitter @username (as defined by the Twitter Card specs)
-  twitter: "@wkapcio"
+  twitter: "wkapcio"
 
 # exclude
 exclude: ["CNAME", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
@@ -34,3 +34,4 @@ permalink: pretty
 # Plugins
 plugins:
   - jekyll-sitemap
+  - jekyll-seo-tag
