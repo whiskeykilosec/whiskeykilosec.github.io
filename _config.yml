@@ -20,6 +20,15 @@ compass:
   include_analytics: true
   # Twitter @username (as defined by the Twitter Card specs)
   twitter: "wkapcio"
+  # other social
+  social:
+    name: Will Kapcio
+    links:
+      - https://twitter.com/wkapcio
+      - https://www.linkedin.com/in/wkapcio
+      - https://github.com/wkapcio
+      - https://keybase.io/wkapcio
+      - https://hackerone.com/wkapcio
 
 # exclude
 exclude: ["CNAME", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
