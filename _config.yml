@@ -8,7 +8,7 @@ compass:
   # author will appear under the avatar (optional)
   author: "Will Kapcio"
   # William Kapcio
-  nickname: "William Kapcio"
+  description: "William Kapcio's personal profile"
   # tagline will appear under the title (optional)
   tagline: "Security research & development"
   # location will appear under tagline (optional)
