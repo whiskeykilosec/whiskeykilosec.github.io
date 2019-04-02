@@ -7,6 +7,8 @@ compass:
   logo: "/images/oregon.png"
   # author will appear under the avatar (optional)
   author: "Will Kapcio"
+  # William Kapcio
+  description: "William Kapcio's personal profile"
   # tagline will appear under the title (optional)
   tagline: "Security research & development"
   # location will appear under tagline (optional)
@@ -19,7 +21,16 @@ compass:
   # Tracking Code to that file.
   include_analytics: true
   # Twitter @username (as defined by the Twitter Card specs)
-  twitter: "@wkapcio"
+  twitter: "wkapcio"
+  # other social
+  social:
+    name: Will Kapcio
+    links:
+      - https://twitter.com/wkapcio
+      - https://www.linkedin.com/in/wkapcio
+      - https://github.com/wkapcio
+      - https://keybase.io/wkapcio
+      - https://hackerone.com/wkapcio
 
 # exclude
 exclude: ["CNAME", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
@@ -34,3 +45,4 @@ permalink: pretty
 # Plugins
 plugins:
   - jekyll-sitemap
+  - jekyll-seo-tag
