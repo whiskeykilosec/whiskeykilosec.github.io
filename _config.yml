@@ -8,7 +8,7 @@ compass:
   # author will appear under the avatar (optional)
   author: "Will Kapcio"
   # William Kapcio
-  description: "William Kapcio's personal profile"
+  description: "Will Kapcio's personal profile"
   # tagline will appear under the title (optional)
   tagline: "Security research & development"
   # location will appear under tagline (optional)
@@ -25,6 +25,16 @@ compass:
   # other social
   social:
     name: Will Kapcio
+    links:
+      - https://twitter.com/wkapcio
+      - https://www.linkedin.com/in/wkapcio
+      - https://github.com/wkapcio
+      - https://keybase.io/wkapcio
+      - https://hackerone.com/wkapcio
+  # seo
+  seo:
+    name: William Kapcio
+    type: Person
     links:
       - https://twitter.com/wkapcio
       - https://www.linkedin.com/in/wkapcio
