@@ -8,9 +8,9 @@ compass:
   # author will appear under the avatar (optional)
   author: "Will Kapcio"
   # William Kapcio
-  description: "Will Kapcio's personal profile"
+  description: "Will Kapcio's personal site"
   # tagline will appear under the title (optional)
-  tagline: "Security Researcher"
+  tagline: "Hacker"
   # location will appear under tagline (optional)
   location: "New York, NY"
   # if include_content is true, the contents of the content.html include will be
@@ -31,6 +31,7 @@ compass:
       - https://github.com/wkapcio
       - https://keybase.io/wkapcio
       - https://hackerone.com/wkapcio
+      - https://www.hackthebox.eu/profile/245928
   # seo
   seo:
     name: William Kapcio
@@ -41,6 +42,7 @@ compass:
       - https://github.com/wkapcio
       - https://keybase.io/wkapcio
       - https://hackerone.com/wkapcio
+      - https://www.hackthebox.eu/profile/245928
 
 # exclude
 exclude: ["CNAME", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
