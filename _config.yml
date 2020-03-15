@@ -10,7 +10,7 @@ compass:
   # William Kapcio
   description: "Will Kapcio's personal site"
   # tagline will appear under the title (optional)
-  tagline: "Hacker"
+  tagline: "Information Security"
   # location will appear under tagline (optional)
   location: "New York, NY"
   # if include_content is true, the contents of the content.html include will be
