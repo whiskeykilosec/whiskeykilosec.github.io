@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/0xwhiskeykilo
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://kapc.io
+  * I am 0xwhiskeykilo (https://keybase.io/0xwhiskeykilo) on keybase.
+  * I have a public key ASD0Z8EOWi4fEtKCQtGx3ieYg5vH1ez7qduRj0_BTzvR9go
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120f467c10e5a2e1f12d28242d1b1de2798839bc7d5ecfba9db918f4fc14f3bd1f60a",
+      "host": "keybase.io",
+      "kid": "0120f467c10e5a2e1f12d28242d1b1de2798839bc7d5ecfba9db918f4fc14f3bd1f60a",
+      "uid": "4aeece3fc679fed62f7141535ea43419",
+      "username": "0xwhiskeykilo"
+    },
+    "merkle_root": {
+      "ctime": 1586043052,
+      "hash": "9172fae0d568332d7035dea640f54496818705c73b6900bbf995fb172dc4bb0ca19241738f7966a9272819de8ea78d3b20b9409c9a2dff49e6304db0c753d717",
+      "hash_meta": "24941629ec4a3248e7522e660331f59c75a9919f9035104774b963dbfcce170c",
+      "seqno": 15767724
+    },
+    "service": {
+      "entropy": "IjoJoO4cymGuW+st25icAEct",
+      "hostname": "kapc.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.3.0"
+  },
+  "ctime": 1586043060,
+  "expire_in": 504576000,
+  "prev": "987798c0e6370e5b2408afa2463fcbd43a94f5bafac8b248363949b044992fd3",
+  "seqno": 6,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg9GfBDlouHxLSgkLRsd4nmIObx9Xs+6nbkY9PwU870fYKp3BheWxvYWTESpcCBsQgmHeYwOY3DlskCK+iRj/L1DqU9br6yLJINjlJsESZL9PEIJ0Uo09Pwfg2CzKlCz0KYS5PKRukJgtmWAP8TVDQU9nXAgHCo3NpZ8RAHV8Aw4kDc5fxMRIDhcPdblk8RgKO1KPhdBt7mmjz8VVVRlzIOT6MGrT+GqujmvRsQVaBeJv1yrZQPCn/6+B5AqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIKr3j1ndK1evDCFhXPW4ovDhnzSOXEFqeSMXsjUfHZYlo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/0xwhiskeykilo
+
+==================================================================
