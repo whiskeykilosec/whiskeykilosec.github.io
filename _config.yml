@@ -26,22 +26,22 @@ compass:
   social:
     name: Will Kapcio
     links:
-      - https://twitter.com/wkapcio
+      - https://twitter.com/0xwhiskeykilo
       - https://www.linkedin.com/in/wkapcio
-      - https://github.com/wkapcio
-      - https://keybase.io/wkapcio
-      - https://hackerone.com/wkapcio
+      - https://github.com/0xwhiskeykilo
+      - https://keybase.io/0xwhiskeykilo
+      - https://hackerone.com/0xwhiskeykilo
       - https://www.hackthebox.eu/profile/245928
   # seo
   seo:
     name: William Kapcio
     type: Person
     links:
-      - https://twitter.com/wkapcio
+      - https://twitter.com/0xwhiskeykilo
       - https://www.linkedin.com/in/wkapcio
-      - https://github.com/wkapcio
-      - https://keybase.io/wkapcio
-      - https://hackerone.com/wkapcio
+      - https://github.com/0xwhiskeykilo
+      - https://keybase.io/0xwhiskeykilo
+      - https://hackerone.com/0xwhiskeykilo
       - https://www.hackthebox.eu/profile/245928
 
 # exclude
