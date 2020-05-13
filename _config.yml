@@ -30,8 +30,8 @@ compass:
       - https://www.linkedin.com/in/wkapcio
       - https://twitter.com/whiskeykilosec
       - https://hackerone.com/whiskeykilosec
-      - https://www.hackthebox.eu/profile/245928
       - https://github.com/whiskeykilosec
+      - https://www.hackthebox.eu/profile/245928
 
   # seo
   seo:
@@ -42,8 +42,8 @@ compass:
       - https://www.linkedin.com/in/wkapcio
       - https://twitter.com/whiskeykilosec
       - https://hackerone.com/whiskeykilosec
-      - https://www.hackthebox.eu/profile/245928
       - https://github.com/whiskeykilosec
+      - https://www.hackthebox.eu/profile/245928
 
 # exclude
 exclude: ["CNAME", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
