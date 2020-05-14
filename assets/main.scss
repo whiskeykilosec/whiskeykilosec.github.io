@@ -1,7 +1,4 @@
----
----
-
-$text-color: #46433A;
+--- --- $text-color: #46433A;
 $anchor-text-color: #CE534D;
 $background-color: #F1EED9;
 
@@ -36,15 +33,15 @@ a:hover {
 
 .filter-gray {
 	-moz-osx-font-smoothing: grayscale;
-    -webkit-font-smoothing: antialiased;
-    display: inline-block;
-    font-style: normal;
-    font-variant: normal;
-    text-rendering: auto;
+	-webkit-font-smoothing: antialiased;
+	display: inline-block;
+	font-style: normal;
+	font-variant: normal;
+	text-rendering: auto;
 	line-height: 1;
 	font-size: 1.33333em;
-    line-height: .75em;
-    vertical-align: -.0667em;
+	line-height: .75em;
+	vertical-align: -.0667em;
 	filter: invert(21%) sepia(12%) saturate(551%) hue-rotate(7deg) brightness(102%) contrast(84%);
 }
 
@@ -57,14 +54,14 @@ a:hover {
 	padding: 2px;
 	margin: 5px;
 	color: $background-color;
-	border-radius:35%;
+	border-radius: 35%;
 	background-color: $text-color;
 }
 
 /* list icons */
 .svg-icon {
 	display: block;
-    fill: $background-color;
+	fill: $background-color;
 }
 
 /*** logo ***/
@@ -115,7 +112,7 @@ hr {
 #wrap {
 	position: relative;
 	text-align: center;
-	width:100%;
+	width: 100%;
 	bottom: 0;
 }
 
@@ -123,14 +120,15 @@ hr {
 	position: relative;
 	text-align: center;
 	font-size: 0.75em;
-	width:100%;
-    bottom: -125px;
+	width: 100%;
+	bottom: -125px;
 	color: $text-color;
 }
 
 /*** media queries ***/
 /* X-Small devices (phones, 480px and up) */
 @media (min-width: 480px) {
+
 	/* wrapper stays 480px wide past 480px wide and is kept centered */
 	.wrapper {
 		width: 480px;
@@ -140,6 +138,7 @@ hr {
 
 /* All other devices (768px and up) */
 @media (min-width: 768px) {
+
 	/* past 768px the layout is changed and the wrapper has a fixed width of 680px
 	to accomodate both the header column and the content column */
 	.wrapper {
@@ -156,9 +155,11 @@ hr {
 
 	.author-container h1,
 	.logo-container,
-	.tagline-container p, {
+	.tagline-container p,
+		{
 		text-align: right;
 	}
+
 	.location-container p {
 		text-align: right;
 	}
