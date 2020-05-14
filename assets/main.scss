@@ -48,29 +48,28 @@ a:hover {
 	filter: invert(21%) sepia(12%) saturate(551%) hue-rotate(7deg) brightness(102%) contrast(84%);
 }
 
-/* override the left margin added by font awesome for the main content list,
-since it must be aligned with the content */
-.fa-ul.main-list {
-	margin-left: 0;
-}
-
 /* list icons */
 .site-link {
-  text-decoration: none;
-  border: 0;
-  width: 36px;
-  height: 36px;
-  padding: 2px;
-  margin: 5px;
-  color: $background-color;
-  border-radius:35%;
-  background-color: $text-color;
+	text-decoration: none;
+	border: 0;
+	width: 36px;
+	height: 36px;
+	padding: 2px;
+	margin: 5px;
+	color: $background-color;
+	border-radius:35%;
+	background-color: $text-color;
 }
 
 /* list icons */
 .svg-icon {
 	display: block;
     fill: $background-color;
+}
+
+.center {
+	margin: 0 auto;
+	text-align:center;
 }
 
 /*** logo ***/
@@ -122,16 +121,16 @@ hr {
 	position: relative;
 	text-align: center;
 	width:100%;
-  bottom: 0;
+	bottom: 0;
 }
 
 #footer {
-	position: absolute;
+	position: relative;
 	text-align: center;
 	font-size: 0.75em;
 	width:100%;
-    bottom: -35px;
-	color: $background-color;
+    bottom: -125px;
+	color: $text-color;
 }
 
 /*** media queries ***/
