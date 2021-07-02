@@ -15,8 +15,14 @@ html {
 	}
 }
 
+@font-face {
+	font-family: "Source Code Pro";
+	src: url("../assets/fonts/SourceCodePro-Regular.otf");
+	src: url("../assets/fonts/SourceCodePro-Regular.ttf");
+  }
+
 body {
-	font-family: 'Roboto', sans-serif;
+	font-family: "Source Code Pro", monospace;
 	color: var(--text-color);
 	background-color: var(--background-color);
 }
