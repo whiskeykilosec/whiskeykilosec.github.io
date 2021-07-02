@@ -12,7 +12,7 @@ compass:
   # tagline will appear under the title (optional)
   tagline: "@whisk3ykilo"
   # location will appear under tagline (optional)
-  location: "Washington, DC"
+  # location: "Washington, DC"
   # if include_content is true, the contents of the content.html include will be
   # added right above the generated item list, if present
   include_content: true
