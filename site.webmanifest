@@ -1,8 +1,7 @@
 {
-    "name": "",
-    "short_name": "",
-    "icons": [
-        {
+    "name": "Will Kapcio",
+    "short_name": "whisk3ykilo",
+    "icons": [{
             "src": "/android-chrome-192x192.png",
             "sizes": "192x192",
             "type": "image/png"

@@ -4,19 +4,15 @@
   <title>{% if site.compass.author %}{{ site.compass.author }} ({% endif %}{{ site.compass.tagline | strip_html }})
   </title>
 
-  <!-- original favicon stuff
-  <link rel="apple-touch-icon" href="{{ site.baseurl }}{{ site.compass.logo }}" />
-  <link rel="shortcut icon" sizes="16x16 24x24 32x32 48x48 64x64" href="{{ site.url }}{{ site.baseurl }}/favicon.ico" />
-  -->
-
-  <!-- new favicon stuff -->
+  <!-- realfavicongenerator.nets -->
   <link rel="apple-touch-icon" sizes="180x180" href="{{ site.url }}{{ site.baseurl }}/apple-touch-icon.png">
   <meta name="apple-mobile-web-app-title" content="Will Kapcio">
   <link rel="icon" type="image/png" sizes="32x32" href="{{ site.url }}{{ site.baseurl }}/favicon-32x32.png">
   <link rel="icon" type="image/png" sizes="16x16" href="{{ site.url }}{{ site.baseurl }}/favicon-16x16.png">
   <link rel="manifest" href="{{ site.url }}{{ site.baseurl }}/site.webmanifest">
-  <meta name="msapplication-TileColor" content="#da532c">
-  <meta name="theme-color" content="#ffffff">
+  <link rel="mask-icon" href="{{ site.url }}{{ site.baseurl }}/safari-pinned-tab.svg" color="#2B303A">
+  <meta name="msapplication-TileColor" content="#2B303A">
+  <meta name="theme-color" content="#2B303A">
 
   <link rel="stylesheet" href="{{ site.baseurl }}/assets/normalize.css">
   <link rel="stylesheet" href="{{ site.baseurl }}/assets/main.css">
